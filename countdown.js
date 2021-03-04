@@ -1358,3 +1358,5 @@ function(module) {
 	return countdown;
 
 })(module);
+
+export default countdown;
